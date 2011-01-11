@@ -63,7 +63,7 @@ param:
         # tam kullanıcı adı (ör. Recai Oktaş)
         fullname: Hasan AYVAZ
         # email adresi (ör. roktas@bil.omu.edu.tr)
-        email: hasan.ayvaz@bil.omu.edu.tr
+        email: hasayvaz@bil.omu.edu.tr
         # ünvan (ör. Bilgisayar Mühendisliği Öğrencisi)
         title: <a href="http://ondokuz.biz/">19</a> üyesi
         # GnuPG kısa parmak izi (ör. DEADBEEF)
