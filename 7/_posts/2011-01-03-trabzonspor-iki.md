@@ -1,0 +1,6 @@
+---
+layout: post
+title: trabzonspor-iki "takım olmak"
+---
+
+bir insanın takım tutması gibi doğal birşey yoktur değil mi?ama bir insanın takım olmasıdır işte asıl önemli husus olan..sadece takımlarda takım olmak hitabı kullanılmaz..işte kişilerde yani taraftar kitlesinde takım olmak tabiri daha bir anlamlıdır..işte öyle bir takımdır trabzonspor..seyircisiyle beraber sahada olan bir takımdır..takım olmak sadece saha içerisindeki 11 kişinin birbiriyle güzel paslaşabilip gol atabilmesi değildir..veyahutta güzel oynayıp maç kazanması değildir..önemli olan seyircisini arkasına alabilmesi..seyircisiyle bir bütün olabilmesi..sahade futbolcular oynarken seyircinin de o heyecanı aynı anda yaşamasıdır takım olmak..bir orta geldiğinde forvetteki birinin topa kafayla vururken seyircinin de o topa o hisle vurabilmesidir takım olmak..takım olmak şu anda izlediğimiz trabzonsporumdur..zaten takım olamasaydı şu anki liderliği de elde edemezdi ya..sorun şehirdeki 70 yaşında bir kişiye takımın tüm kadrosunu size çıkartır..sorun bir küçük çoçuğa futbolcuların hepsini sayar..işte budur takım olmak..bu aralarda da liderliğimizin keyfini sürüyorum..inşallah bir aksilik yaşanmaz da mayıs sonu mutlu son olur..işte o zaman görüşelim :)
