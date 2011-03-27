@@ -61,7 +61,7 @@ param:
         # dikkat!  unix kullanıcı adı github hesabından farklı olabilir
         user: hasayvaz
         # tam kullanıcı adı (ör. Recai Oktaş)
-        fullname: Hasan AYVAZ
+        fullname: Hasan Ayvaz
         # email adresi (ör. roktas@bil.omu.edu.tr)
         email: hasayvaz@bil.omu.edu.tr
         # ünvan (ör. Bilgisayar Mühendisliği Öğrencisi)
