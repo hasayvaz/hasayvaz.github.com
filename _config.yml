@@ -75,7 +75,7 @@ param:
         # facebook adresi (ör. http://facebook.com/roktas)
         facebook: http://facebook.com/hasayvaz
         # özet akışı adresi (ör. http://feeds.feedburner.com/roktas)
-        feed: ~
+        feed: http://feeds.feedburner.com/hasayvaz
 
         # --------------------------------------------------------------
         # sitede kullanılan bazı metinler
